@@ -1,0 +1,51 @@
+body {
+  background: #FFF8DC;
+  font-family: 'Merriweather', sans-serif;
+  font-weight: 500;
+}
+
+.logo {
+  display: block;
+  height: 6em;
+  width: 6em;
+  float: left;
+  padd-top: 1em;
+}
+
+.container {
+  width: 100%;
+  margin: 0;
+}
+
+header {
+  background: #90EE90;
+}
+
+nav {
+  float: right;
+}
+
+nav ul {
+  margin-bottom: 5px;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 2vw;
+  padding-top: 0em;
+  margin-bottom: 30px;
+
+  position: relative;
+}
+
+nav a {
+  color: #444;
+  text-transform: uppercase;
+}
+
+nav a:hover {
+  color: orange;
+}
+
+/* End of navigation */
