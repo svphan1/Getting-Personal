@@ -71,10 +71,16 @@ img {
   width: 100%;
 }
 
+hr {
+  width: 80%;
+}
+
 .about {
   text-align: center;
 }
 
 p {
-  align: center;
+  text-align: center;
+  padding-left: 14em;
+  padding-right: 14em;
 }
