@@ -12,11 +12,6 @@ body {
   padd-top: 1em;
 }
 
-.container {
-  width: 100%;
-  margin: 0;
-}
-
 header {
   background: #90EE90;
   height: 8em;
@@ -73,7 +68,6 @@ img {
 
 hr {
   width: 80%;
-
 }
 
 .about {

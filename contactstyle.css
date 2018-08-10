@@ -1,0 +1,32 @@
+body {
+  background-image: url("img/Contacts.jpg");
+}
+
+h3 {
+  font-size: 2em;
+  padding-left: 2em;
+  padding-bottom: 2em;
+}
+
+input[type=submit] {
+    color: #fff;
+    background: #3CB371;
+    padding: 1em 3em;
+    border-radius: 1em;
+}
+input[type=submit]:hover {
+    background: #f44c0e;
+}
+
+.form {
+  color: #FFFAF0;
+  padding-left: 40vw;
+}
+
+p {
+  font-size: 1em;
+}
+
+.container-fluid {
+  width: 100%;
+}
