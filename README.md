@@ -1,16 +1,9 @@
 # Getting-Personal
 
 Project Description:
-This website is a colletion of some of my favorite travel destinations including a section for my future destinations.
+This website is a collection of some of my favorite travel destinations including a section for my future destinations.
 It will include an about me and why I love to travel. A link will eventually include future destinations.
 
-<<<<<<< HEAD
-Link to website: [sonphan.surge.sh](sonphan.surge.sh)
-
-Wireframe:
-
-![alt text](img/wireframe.jpg)
-=======
 Deployed link: [sonphan.surge.sh](sonphan.surge.sh)
 
 Wireframe:
